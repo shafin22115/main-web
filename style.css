@@ -27,6 +27,7 @@ h1{
 section{
     height: 500px;
     padding-bottom: 150px;
+    clear: both;
 }
 .top-banner{text-decoration: none;
     padding: 10px 20px;
